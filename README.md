@@ -19,3 +19,9 @@ kaç gün işe geç kaldığı, hangi tarihler arasında izin aldığı
 veritabanına yöneticiler tarafınan kaydedilmektedir.
 Personellerin yöneticilere izin talebinde bulunabilir bu talepler
 ve taleplere verilen cevaplar dosyalara kaydedilmektedir.
+
+
+
+![Admin Login Screen](https://user-images.githubusercontent.com/75026832/233830791-d73905fc-b3b6-4313-97e0-13a322ad48b9.png)
+![Permission and lateday screen](https://user-images.githubusercontent.com/75026832/233830793-5f03062c-88c6-4df3-ae3c-65fb1322cc07.png)
+![Personel Screen](https://user-images.githubusercontent.com/75026832/233830794-fd80e253-00ff-4903-9790-b2a036f69b33.png)
